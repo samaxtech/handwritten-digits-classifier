@@ -1,2 +1,2 @@
-# handwritten-digits-classifier
-Handwritten digits classifier, implementing and testing different neural networks.
+# Handwritten Digits Classifier
+Handwritten digits classifier, implementing and testing different Multilayer Perceptrons.
